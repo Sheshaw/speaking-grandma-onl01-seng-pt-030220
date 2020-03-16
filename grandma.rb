@@ -21,7 +21,7 @@ def speak_to_grandma(sentence)
     "HUH?! SPEAK UP, SONNY!"
     
   else sentence == sentence.upcase
-    "NO, NOT SINCE 1938!"
+    "NO, NOT SINCE 1938!" * 2
     
     
  end
